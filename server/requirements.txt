@@ -1,0 +1,9 @@
+flask==2.0.1
+werkzeug==2.0.1
+flask-cors==3.0.10
+stripe==7.13.0
+firebase-admin==5.0.3
+python-dotenv==0.19.0
+bitcoinlib==0.7.3
+mnemonic==0.21
+typing-extensions>=4.0.0 
